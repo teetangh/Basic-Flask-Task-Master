@@ -1,6 +1,7 @@
 # Basic-Flask-Task-Master
 Trying to implement a Basic Task Manager.
 
+
 # Important Reminders
 create vitual env
 pip install flask and flask-sqlalchemy  
@@ -20,3 +21,6 @@ Prefer cmd over powershell for venv
 
 # Still to deploy to Heroku
 Will udpate the project and deploy once done
+
+### Credits  
+https://www.youtube.com/watch?v=Z1RJmh_OqeA  
