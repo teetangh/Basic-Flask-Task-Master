@@ -5,6 +5,7 @@ Trying to implement a Basic Task Manager.
 create vitual env
 pip install flask and flask-sqlalchemy  
 db.create_all()  
+To view webpage use http://localhost:5000/  
 Confirm if update page is working  
 use pip freeze for requirements.txt  
 
