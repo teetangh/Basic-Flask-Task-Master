@@ -3,10 +3,10 @@ Trying to implement a Basic Task Manager.
 
 # Important Reminders
 create vitual env
-pip install flask and flask-sqlalchemy
-db.create_all()
-Confirm if update page is working
-use pip freeze for requirements.txt
+pip install flask and flask-sqlalchemy  
+db.create_all()  
+Confirm if update page is working  
+use pip freeze for requirements.txt  
 
 
 
